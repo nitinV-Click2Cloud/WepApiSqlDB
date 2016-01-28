@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Builder;
 using Microsoft.AspNet.Hosting;
-using Microsoft.Framework.DependencyInjection;
-using Microsoft.Framework.Logging;
-using WebApi2.Model;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
+using WebApi2.Model;;
 
 namespace WebApi2
 {
